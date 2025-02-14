@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "TEST",
             "pages": [
               "essentials/markdown",
               "essentials/code",
