@@ -56,7 +56,7 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.jpeg",
+    "light": "/logo/dark.png",
     "dark": "/logo/dark1.png"
   },
   "navbar": {
