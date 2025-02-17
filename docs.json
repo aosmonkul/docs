@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Legal",
+        "tab": "Docs",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Legal",
             "pages": [
               "privacy-policy",
               "terms-of-use",
