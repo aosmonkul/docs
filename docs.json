@@ -26,8 +26,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/VioletMD.svg",
-    "dark": "/logo/WhiteMD.svg"
+    "light": "/logo/VioletSM.svg",
+    "dark": "/logo/WhiteSM.svg"
   },
   "navbar": {
     "links": [
