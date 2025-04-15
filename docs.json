@@ -8,9 +8,9 @@
     "dark": "#5f0a91"
   },
   "favicon": {
-      "dark": "/GollumAILogo.png",
-      "light": "/GollumAILogo.png"
-   },
+    "dark": "/GollumAILogo.png",
+    "light": "/GollumAILogo.png"
+  },
   "navigation": {
     "tabs": [
       {
