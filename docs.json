@@ -7,7 +7,10 @@
     "light": "#b241f5",
     "dark": "#5f0a91"
   },
-  "favicon": "/icon.png",
+  "favicon": {
+      "dark": "/GollumAILogo.png",
+      "light": "/GollumAILogo.png"
+   },
   "navigation": {
     "tabs": [
       {
