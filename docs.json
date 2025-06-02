@@ -8,8 +8,8 @@
     "dark": "#5f0a91"
   },
   "favicon": {
-    "dark": "/Symbol_Primary_noBG.png",
-    "light": "/Symbol_Primary_noBG.png"
+    "dark": "/GollumFavicon.svg",
+    "light": "/GollumFavicon.svg"
   },
   "navigation": {
     "tabs": [
