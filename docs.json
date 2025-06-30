@@ -29,8 +29,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/logo-white.svg",
-    "dark": "/logo/logo-dark.svg"
+    "light": "/logo/memora-light.png",
+    "dark": "/logo/memora-dark.png"
   },
   "navbar": {
     "links": [
